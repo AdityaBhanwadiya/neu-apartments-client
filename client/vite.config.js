@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'https://neu-apartments-server.onrender.com',
+        target: 'https://neu-apartments-client.onrender.com',
         secure: false,
       },
     },

@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
+    "cors": "^2.8.5",
     "express": "^4.19.2",
     "firebase": "^10.11.1",
     "react": "^18.2.0",

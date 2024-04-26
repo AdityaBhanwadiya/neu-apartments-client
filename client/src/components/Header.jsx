@@ -26,7 +26,7 @@ export default function Header() {
     <header className='bg-red-500 shadow-md'>
       <div className='flex justify-between items-center max-w-6xl mx-auto p-3'>
       <Link to='/' className="flex items-center"> {/* Ensure flex container */}
-      <img src="gs://boston-estate.appspot.com/nu_logo.png" alt="NU Logo" className="h-8 sm:h-10 mr-2" /> {/* Add margin to the right */}
+      <img src="https://northeastern-my.sharepoint.com/:i:/r/personal/bhanwadiya_a_northeastern_edu/Documents/nu_logo.png?csf=1&web=1&e=CLrGjz" alt="NU Logo" className="h-8 sm:h-10 mr-2" /> {/* Add margin to the right */}
       <h1 className='font-bold text-black sm:text-xl flex flex-wrap'>
         <span >NEU</span>
         <span >Apartments</span>
